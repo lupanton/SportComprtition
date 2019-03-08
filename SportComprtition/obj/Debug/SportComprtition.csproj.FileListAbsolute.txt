@@ -1,0 +1,6 @@
+F:\CSharpProjects\SportComprtition\SportComprtition\bin\Debug\SportComprtition.exe.config
+F:\CSharpProjects\SportComprtition\SportComprtition\obj\Debug\SportComprtition.csprojResolveAssemblyReference.cache
+F:\CSharpProjects\SportComprtition\SportComprtition\bin\Debug\SportComprtition.exe
+F:\CSharpProjects\SportComprtition\SportComprtition\bin\Debug\SportComprtition.pdb
+F:\CSharpProjects\SportComprtition\SportComprtition\obj\Debug\SportComprtition.exe
+F:\CSharpProjects\SportComprtition\SportComprtition\obj\Debug\SportComprtition.pdb
